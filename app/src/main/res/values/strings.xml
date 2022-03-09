@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuardaArchivos</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="email">Email</string>
+    <string name="telefono">Teléfono</string>
+    <string name="almacenar">Almacenar</string>
+    <string name="Buscar">Buscar</string>
+    <string name="todos">Ver todos</string>
+    <string name="siguiente">siguiente</string>
+    <string name="anterior"> anterior </string>
+</resources>
